@@ -1,2 +1,2 @@
-# portfolio
-#I created a basic portfolio site for my own using html and css.
+# CV
+#I created a basic cv site for my own using html and css.
